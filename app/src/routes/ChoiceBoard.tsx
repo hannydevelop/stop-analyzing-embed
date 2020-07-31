@@ -32,7 +32,7 @@ function ChoiceBoard() {
             <div className="row text-center">
               <div className="col-lg-12 m-4">
                 <H3>{t('Which one would you like to choose?')} </H3>
-    
+   h
               </div>
             </div>
             <div className="row text-center">
